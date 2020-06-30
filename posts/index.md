@@ -9,11 +9,13 @@
 
 > :Title
 >
-> Sample Blog
+> Arman's Coding Blog
 
-This is a sample homepage for your [`coding.blog`](https://coding.blog). You can use
-it to showcase your latest / most-important blog posts (or whatever suites your case).
-You can modify its content by editting `posts/index.md`.
+> :Author src=github
+
+<br>
+
+Howdy! This is my [`coding.blog`](https://coding.blog) where I post about coding stuff. Hope you like it.
 
 ---
 
