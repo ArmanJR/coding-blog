@@ -16,16 +16,16 @@ import { postNavSearch } from '/home/runner/work/coding-blog/coding-blog/.codedo
 import { ToCToggle } from '/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { ArticleCard } from '/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js';
 import { Author } from '/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js';
+import { ArticleCard } from '/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js';
 import { ToCPrevNext } from '/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 
 const components = {
   'krgrG9oFN9VQUm9kMirw5Q==': ToCToggle,
   'rt07Ne+r5k791oQZALhn6g==': DarkModeSwitch,
   '5C7mlfiypfDBeBwm8QT42g==': ConfigTransport,
-  'h50r6483fq/QNydFmoOznA==': ArticleCard,
   'DmEvOYtw7XYnMs6x+25YJA==': Author,
+  'h50r6483fq/QNydFmoOznA==': ArticleCard,
   'dPH0+SmZ7R38b/oBW5P5Rw==': ToCPrevNext
 };
 
