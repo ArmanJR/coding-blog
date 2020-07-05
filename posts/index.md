@@ -9,7 +9,7 @@
 
 > :Title
 >
-> Arman's Coding Blog
+> Arman's blog
 
 > :Author src=github
 
