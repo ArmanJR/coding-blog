@@ -1,7 +1,4 @@
 [Home](/)
-[Sample Blog Post](/sample-blog-post)
-
-<br><br>
-
-To add links to your other posts,
-simply modify contents of `posts/_toc.md`
+[Hello-World Post](/hello-world)
+[My Twitter](https://twitter.com/theArmanJr)
+[My LinkedIn](https://linkedin.com/in/ArmanJ)

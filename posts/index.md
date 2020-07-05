@@ -15,7 +15,7 @@
 
 <br>
 
-Howdy! This is my [`coding.blog`](https://coding.blog) where I post about coding stuff. Hope you like it.
+Howdy! I'm Arman (AKA Junior) & This is my `coding.blog` where I post about casual coding stuff. Please notice that I'm not a developer, not even close.
 
 ---
 
@@ -23,11 +23,9 @@ Howdy! This is my [`coding.blog`](https://coding.blog) where I post about coding
 
 So here are the latest posts:
 
-> :ArticleCard src=/sample-blog-post, style=box
+> :ArticleCard src=/hello-world, style=box
 
 > :ArticleCard src=/sample-blog-post, style=box
-
-> :ArticleCard src=/sample-blog-post
 
 > :ArticleCard src=/sample-blog-post
 
