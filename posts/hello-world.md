@@ -30,7 +30,7 @@
 
 ---
 
-First I'm going to introduce myself a bit. I'm Arman Jafarnezhad, also known as Junior. I was born in May 11th, 1998. 14 years later, I got a 2 out of 20 in my first-ever programming exam. With this poor result, it's a terrible idea to continue to learn coding, right? but I did (I make terrible decisions every day). So I learned C++ and built a few [cool projects](http://cppapps.blog.ir/category/C-Graphics/). Then the journey of web development began when I was 15 years old. Until now, my main focus has been web development, specifically back-end. My first semi-big project was [Termutat](http://termustat.ir), an online scheduling web app for university students in Iran. Termustat now supports 3 universities, 38 faculties and has over 2k active users.
+First I'm going to introduce myself a bit. I'm Arman Jafarnezhad, also known as Junior. I was born in May 11th, 1998. 14 years later, I got a 2 out of 20 in my first-ever programming exam. With this poor result, it's a terrible idea to continue to learn coding, right? but I did (I make terrible decisions every day). So I learned C++ and built a few [cool projects](http://cppapps.blog.ir/category/C-Graphics/). Then the journey of web development began when I was 15 years old. Until now, my main focus has been web development, specifically back-end. My first semi-big project was [Termustat](http://termustat.ir), an online scheduling web app for university students in Iran. Termustat now supports 3 universities, 38 faculties and has over 2k active users.
 
 ---
 
@@ -39,7 +39,7 @@ My main focus these days is data science and machine learning solutions. I'm cur
 
 ---
 
-You can find out more about me in my [LinkedIn](https://linkedin.com/in/ArmanJr) profile and reach me via [Telegram](https://t.me/ArmanHimself), [Twitter](https://twitter.com/theArmanJr).
+You can find out more about me in my [LinkedIn](https://linkedin.com/in/ArmanJr) profile and reach me via [Telegram](https://t.me/ArmanHimself) & [Twitter](https://twitter.com/theArmanJr).
 
 Happy coding!
 
