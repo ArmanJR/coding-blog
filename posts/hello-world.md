@@ -39,7 +39,7 @@ My main focus these days is data science and machine learning solutions. I'm cur
 
 ---
 
-You can find out more about me in my [LinkedIn](https://linkedin.com/in/ArmanJr) profile and reach me via [Telegram](https://t.me/ArmanHimself) & [Twitter](https://twitter.com/theArmanJr).
+You can find out more about me in my [LinkedIn](https://linkedin.com/in/ArmanJ) profile and reach me via [Telegram](https://t.me/ArmanHimself) & [Twitter](https://twitter.com/theArmanJr).
 
 Happy coding!
 
