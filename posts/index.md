@@ -15,7 +15,7 @@
 
 <br>
 
-Howdy! I'm Arman (AKA Junior) & This is my `coding.blog` where I post about casual coding stuff. Please notice that I'm not a developer, not even close.
+Howdy! I'm Arman (AKA Junior) & This is my `coding.blog` where I post about casual coding stuff.
 
 ---
 
@@ -24,6 +24,8 @@ Howdy! I'm Arman (AKA Junior) & This is my `coding.blog` where I post about casu
 So here are the latest posts:
 
 > :ArticleCard src=/hello-world, style=box
+
+> :ArticleCard src=/graphql-intro, style=box
 
 ---
 
