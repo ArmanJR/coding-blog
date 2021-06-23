@@ -93,14 +93,14 @@
       "hash": "DmEvOYtw7XYnMs6x+25YJA=="
     },
     {
-      "name": "ArticleCard",
-      "filename": "/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
-      "hash": "h50r6483fq/QNydFmoOznA=="
-    },
-    {
       "name": "ToCPrevNext",
       "filename": "/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
       "hash": "dPH0+SmZ7R38b/oBW5P5Rw=="
+    },
+    {
+      "name": "ArticleCard",
+      "filename": "/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
+      "hash": "h50r6483fq/QNydFmoOznA=="
     }
   ],
   "renderer": {
