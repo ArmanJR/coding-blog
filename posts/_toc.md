@@ -1,5 +1,7 @@
 [Home](/)
 [Hello World!](/hello-world)
 [Intro to GraphQL + Laravel](/graphql-intro)
+[My Website](http://armanjafarnezhad.ir)
+[My Persian Blog](http://armanjafarnezhad.ir/blog)
 [My Twitter](https://twitter.com/itsArmanJ)
 [My LinkedIn](https://linkedin.com/in/ArmanJ)
