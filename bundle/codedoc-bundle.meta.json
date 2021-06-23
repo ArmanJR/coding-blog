@@ -73,6 +73,11 @@
   ],
   "components": [
     {
+      "name": "Author",
+      "filename": "/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
+      "hash": "DmEvOYtw7XYnMs6x+25YJA=="
+    },
+    {
       "name": "ToCToggle",
       "filename": "/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
       "hash": "krgrG9oFN9VQUm9kMirw5Q=="
@@ -86,11 +91,6 @@
       "name": "ConfigTransport",
       "filename": "/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
       "hash": "5C7mlfiypfDBeBwm8QT42g=="
-    },
-    {
-      "name": "Author",
-      "filename": "/home/runner/work/coding-blog/coding-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
-      "hash": "DmEvOYtw7XYnMs6x+25YJA=="
     },
     {
       "name": "ToCPrevNext",
