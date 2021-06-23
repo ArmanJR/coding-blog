@@ -15,7 +15,7 @@
 
 <br>
 
-Howdy! I'm Arman (AKA Junior) & This is my `coding.blog` where I post about casual coding stuff.
+Howdy! I'm Arman (AKA Junior) & This is my `coding.blog` where I post about casual coding stuff. My Persian blog is [Utopia](http://armanjafarnezhad.ir/blog).
 
 ---
 

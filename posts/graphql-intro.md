@@ -1,39 +1,61 @@
-> :Hero src=https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1900&h=600&fit=crop,
->       mode=light,
->       target=desktop,
->       leak=156px
-
-> :Hero src=https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=600&fit=crop,
->       mode=light,
->       target=mobile,
->       leak=96px
-
-> :Hero src=https://images.unsplash.com/photo-1508780709619-79562169bc64?w=1900&h=600&fit=crop,
->       mode=dark,
->       target=desktop,
->       leak=156px
-
-> :Hero src=https://images.unsplash.com/photo-1508780709619-79562169bc64?w=1200&h=600&fit=crop,
->       mode=dark,
->       target=mobile,
->       leak=96px
+> :Hero src=/img/graphql.png,
+>       leak=126px
 
 > :Title shadow=0 0 8px black, color=white
 >
-> GraphQL: An Introduction
+> Intro to GraphQL + Laravel
 
 > :Author src=github
 
 <br>
 
-This is the GraphQL
+# What is GraphQL?
+*GraphQL* is an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. It provides an approach to developing web APIs and has been compared and contrasted with REST and other web service architectures. It allows clients to define the structure of the data required, and the same structure of the data is returned from the server, therefore preventing excessively large amounts of data from being returned, but this has implications for how effective web caching of query results can be. The flexibility and richness of the query language also adds complexity that may not be worthwhile for simple APIs. Despite the name, GraphQL does not provide the richness of graph operations that one might find in a full-fledged graph database such as Neo4j, or even in dialects of SQL that support transitive closure. For example, a GraphQL interface that reports the parents of an individual cannot return, in a single query, the set of all their ancestors.
 
+<br>
 
-> :DarkLight
-> > :InDark
-> >
-> > _Hero image by [Kaitlyn Baker](https://unsplash.com/@kaitlynbaker) from [Unsplash](https://unsplash.com)_
->
-> > :InLight
-> >
-> > _Hero image by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters) from [Unsplash](https://unsplash.com)_
+## Example
+
+`POST` request:
+```graphql
+{
+    orders {
+        id
+        productsList {
+            product {
+                name
+                price
+            }
+            quantity
+        }
+        totalAmount
+    }
+}
+```
+response:
+```json
+{
+    "data": {
+        "orders": [
+            {
+                "id": 1,
+                "productsList": [
+                    {
+                        "product": {
+                            "name": "orange",
+                            "price": 1.5
+                        },
+                        "quantity": 100
+                    }
+                ],
+                "totalAmount": 150
+            }
+        ]
+    }
+}
+```
+
+In this post we are going to implement GraphQL in our Laravel project.  
+
+---
+
